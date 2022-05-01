@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-int a, b, c, Vdelta, x1, x2, x, test1, test2, option;
+int a, b, c, Vdelta, x1, x2, x, option;
 
 void reset()
 {
