@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 
 int a, b, c, Vdelta, x1, x2, x, option;
 
